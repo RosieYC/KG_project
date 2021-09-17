@@ -1,0 +1,5 @@
+model.ckpt : 
+    epoch 37
+    val acc 0.96
+    batch size 8
+    image size 244 244 
